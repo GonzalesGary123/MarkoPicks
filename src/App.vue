@@ -252,7 +252,6 @@ const formatCurrency = (value: number) => {
                 </div>
                 <div>
                   <h3 class="text-xl font-bold text-gray-900 dark:text-white transition-colors duration-500">{{ social.name }}</h3>
-                  <p class="text-blue-600 dark:text-blue-500 text-sm font-medium transition-colors duration-500">{{ social.followers }}</p>
                 </div>
               </div>
               <p class="text-gray-500 dark:text-gray-400 text-sm mt-2 mb-8 flex-1 leading-relaxed transition-colors duration-500">{{ social.desc }}</p>
